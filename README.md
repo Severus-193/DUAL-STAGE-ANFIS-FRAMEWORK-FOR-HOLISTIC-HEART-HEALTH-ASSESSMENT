@@ -18,7 +18,7 @@ This project features a dual-stage AI framework for comprehensive heart health a
 * Delivers specific predictions for heart attack risk and severity.
 * Predicts risk of heart attack with detailed membership function plots using Bokeh.
 
-### 3. Interactive Health Chatbot (chatbot.py)
+### 3. Interactive Health Chatbot (Chatbot.py)
 
 * Powered by LSTM models trained on synthetic and real patient data.
 * Offers dynamic, real-time interaction and personalized heart health guidance.
