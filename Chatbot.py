@@ -253,7 +253,7 @@ def respond_to_query(n_clicks_submit, user_input, n_clicks_hd, n_clicks_causes, 
 
 # Train models when the app starts
 train_heart_disease_model()
-train_heart_attack_model()
+train_heart_attack_model ()
 
 
 
