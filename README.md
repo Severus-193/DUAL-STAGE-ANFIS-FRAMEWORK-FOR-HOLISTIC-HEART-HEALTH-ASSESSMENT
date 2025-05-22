@@ -60,7 +60,7 @@ This project features a dual-stage AI framework for comprehensive heart health a
    ```
 
 4. Open the website:
-   Open webpage.html in your browser to view the integrated web interface and access the dashboard.
+   Open **"webpage.html"** in your browser to view the integrated web interface and access the dashboard.
 
 ## Usage
 
