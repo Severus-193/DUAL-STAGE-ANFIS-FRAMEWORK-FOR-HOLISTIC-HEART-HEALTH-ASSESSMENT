@@ -4,14 +4,14 @@ This project features a dual-stage AI framework for comprehensive heart health a
 
 ## Features
 
-### 1. Heart Disease Risk Prediction (heart_disease.py)
+### 1. Heart Disease Risk Prediction (Heart_Disease.py)
 
 * Utilizes Gaussian membership functions in a Sugeno-type ANFIS model.
 * Accepts 9 key clinical inputs such as age, sex, chest pain, cholesterol, blood pressure, etc.
 * Built using Bokeh for interactive visualization.
 * Provides the predicted heart disease type along with a risk level (low, medium, high).
 
-### 2. Heart Attack Risk Prediction (heart_attack.py)
+### 2. Heart Attack Risk Prediction (Heart_Attack.py)
 
 * Uses Generalized Bell membership functions.
 * Includes additional lifestyle inputs like smoking and family history.
