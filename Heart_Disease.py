@@ -376,4 +376,4 @@ layout = column(input_row1,
 
 # Add the layout to the current document
 curdoc().add_root(layout)
-curdoc().title = "Heart Disease Prediction ANFIS"
+curdoc().title = "Heart Disease Prediction using ANFIS"
