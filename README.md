@@ -49,7 +49,9 @@ This project features a dual-stage AI framework for comprehensive heart health a
    ```
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
+   ```
 
 3. Run the Bokeh and Dash applications:
 
@@ -60,7 +62,9 @@ This project features a dual-stage AI framework for comprehensive heart health a
    ```
 
 4. Open the website:
-   Open **"webpage.html"** in your browser to view the integrated web interface and access the dashboard.
+   ```bash
+   Open "webpage.html" in your browser to view the integrated web interface and access the dashboard.
+   ```
 
 ## Usage
 
